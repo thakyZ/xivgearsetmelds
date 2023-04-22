@@ -1,0 +1,1138 @@
+{
+  "any": {
+    "id": "0",
+    "none": {
+      "id": "0",
+      "icons": [
+        {
+          "name": "None",
+          "image": "0",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    }
+  },
+  "crafter": {
+    "id": "1",
+    "command": {
+      "id": "0",
+      "icons": [
+        {
+          "name": "Craftsman's Command Materia I",
+          "image": "020201",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Command Materia II",
+          "image": "020202",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Command Materia III",
+          "image": "020203",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Command Materia IV",
+          "image": "020204",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Command Materia V",
+          "image": "020253",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Command Materia VI",
+          "image": "020270",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Command Materia VII",
+          "image": "020271",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Command Materia VIII",
+          "image": "020276",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Command Materia IX",
+          "image": "020285",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Command Materia X",
+          "image": "020290",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    },
+    "cunning": {
+      "id": "1",
+      "icons": [
+        {
+          "name": "Craftsman's Cunning Materia I",
+          "image": "020201",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Cunning Materia II",
+          "image": "020202",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Cunning Materia III",
+          "image": "020203",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Cunning Materia IV",
+          "image": "020204",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Cunning Materia V",
+          "image": "020253",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Cunning Materia VI",
+          "image": "020270",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Cunning Materia VII",
+          "image": "020271",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Cunning Materia VIII",
+          "image": "020276",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Cunning Materia IX",
+          "image": "020285",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Cunning Materia X",
+          "image": "020290",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    },
+    "competence": {
+      "id": "2",
+      "icons": [
+        {
+          "name": "Craftsman's Competence Materia I",
+          "image": "020201",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Competence Materia II",
+          "image": "020202",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Competence Materia III",
+          "image": "020203",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Competence Materia IV",
+          "image": "020204",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Competence Materia V",
+          "image": "020253",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Competence Materia VI",
+          "image": "020270",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Competence Materia VII",
+          "image": "020271",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Competence Materia VIII",
+          "image": "020276",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Competence Materia IX",
+          "image": "020285",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Craftsman's Competence Materia X",
+          "image": "020290",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    }
+  },
+  "gatherer": {
+    "id": "2",
+    "guerdon": {
+      "id": "0",
+      "icons": [
+        {
+          "name": "Gatherer's Guerdon Materia I",
+          "image": "020209",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guerdon Materia II",
+          "image": "020210",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guerdon Materia III",
+          "image": "020211",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guerdon Materia IV",
+          "image": "020212",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guerdon Materia V",
+          "image": "020255",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guerdon Materia VI",
+          "image": "020266",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guerdon Materia VII",
+          "image": "020272",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guerdon Materia VIII",
+          "image": "020277",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guerdon Materia IX",
+          "image": "020283",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guerdon Materia X",
+          "image": "020288",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    },
+    "grasp": {
+      "id": "1",
+      "icons": [
+        {
+          "name": "Gatherer's Grasp Materia I",
+          "image": "020209",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Grasp Materia II",
+          "image": "020210",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Grasp Materia III",
+          "image": "020211",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Grasp Materia IV",
+          "image": "020212",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Grasp Materia V",
+          "image": "020255",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Grasp Materia VI",
+          "image": "020266",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Grasp Materia VII",
+          "image": "020272",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Grasp Materia VIII",
+          "image": "020277",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Grasp Materia IX",
+          "image": "020283",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Grasp Materia X",
+          "image": "020288",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    },
+    "guile": {
+      "id": "2",
+      "icons": [
+        {
+          "name": "Gatherer's Guile Materia I",
+          "image": "020209",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guile Materia II",
+          "image": "020210",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guile Materia III",
+          "image": "020211",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guile Materia IV",
+          "image": "020212",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guile Materia V",
+          "image": "020255",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guile Materia VI",
+          "image": "020266",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guile Materia VII",
+          "image": "020272",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guile Materia VIII",
+          "image": "020277",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guile Materia IX",
+          "image": "020283",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Gatherer's Guile Materia X",
+          "image": "020288",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    }
+  },
+  "attack": {
+    "id": "4",
+    "aim": {
+      "id": "0",
+      "icons": [
+        {
+          "name": "Savage Aim Materia I",
+          "image": "020221",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Aim Materia II",
+          "image": "020222",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Aim Materia III",
+          "image": "020223",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Aim Materia IV",
+          "image": "020224",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Aim Materia V",
+          "image": "020258",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Aim Materia VI",
+          "image": "020267",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Aim Materia VII",
+          "image": "020274",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Aim Materia VIII",
+          "image": "020279",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Aim Materia IX",
+          "image": "020284",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Aim Materia X",
+          "image": "020289",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    },
+    "might": {
+      "id": "1",
+      "icons": [
+        {
+          "name": "Savage Might Materia I",
+          "image": "020221",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Might Materia II",
+          "image": "020222",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Might Materia III",
+          "image": "020223",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Might Materia IV",
+          "image": "020224",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Might Materia V",
+          "image": "020258",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Might Materia VI",
+          "image": "020267",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Might Materia VII",
+          "image": "020274",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Might Materia VIII",
+          "image": "020279",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Might Materia IX",
+          "image": "020284",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Savage Might Materia X",
+          "image": "020289",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    },
+    "eye": {
+      "id": "2",
+      "icons": [
+        {
+          "name": "Heavens' Eye Materia I",
+          "image": "020221",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Heavens' Eye Materia II",
+          "image": "020222",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Heavens' Eye Materia III",
+          "image": "020223",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Heavens' Eye Materia IV",
+          "image": "020224",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Heavens' Eye Materia V",
+          "image": "020258",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Heavens' Eye Materia VI",
+          "image": "020267",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Heavens' Eye Materia VII",
+          "image": "020274",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Heavens' Eye Materia VIII",
+          "image": "020279",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Heavens' Eye Materia IX",
+          "image": "020284",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Heavens' Eye Materia X",
+          "image": "020289",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    }
+  },
+  "speed": {
+    "id": "5",
+    "arm": {
+      "id": "0",
+      "icons": [
+        {
+          "name": "Quickarm Materia I",
+          "image": "020225",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quickarm Materia II",
+          "image": "020226",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quickarm Materia III",
+          "image": "020227",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quickarm Materia IV",
+          "image": "020228",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quickarm Materia V",
+          "image": "020259",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quickarm Materia VI",
+          "image": "020265",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quickarm Materia VII",
+          "image": "020275",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quickarm Materia VIII",
+          "image": "020280",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quickarm Materia IX",
+          "image": "020282",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quickarm Materia X",
+          "image": "020287",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    },
+    "tounge": {
+      "id": "1",
+      "icons": [
+        {
+          "name": "Quicktongue Materia I",
+          "image": "020225",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quicktongue Materia II",
+          "image": "020226",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quicktongue Materia III",
+          "image": "020227",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quicktongue Materia IV",
+          "image": "020228",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quicktongue Materia V",
+          "image": "020259",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quicktongue Materia VI",
+          "image": "020265",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quicktongue Materia VII",
+          "image": "020275",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quicktongue Materia VIII",
+          "image": "020280",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quicktongue Materia IX",
+          "image": "020282",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Quicktongue Materia X",
+          "image": "020287",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    }
+  },
+  "role": {
+    "id": "5",
+    "dance": {
+      "id": "0",
+      "icons": [
+        {
+          "name": "Battledance Materia I",
+          "image": "020213",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Battledance Materia II",
+          "image": "020214",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Battledance Materia III",
+          "image": "020215",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Battledance Materia IV",
+          "image": "020216",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Battledance Materia V",
+          "image": "020256",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Battledance Materia VI",
+          "image": "020262",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Battledance Materia VII",
+          "image": "020273",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Battledance Materia VIII",
+          "image": "020278",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Battledance Materia IX",
+          "image": "020281",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Battledance Materia X",
+          "image": "020286",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    },
+    "piety": {
+      "id": "1",
+      "icons": [
+        {
+          "name": "Piety Materia I",
+          "image": "020213",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Piety Materia II",
+          "image": "020214",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Piety Materia III",
+          "image": "020215",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Piety Materia IV",
+          "image": "020216",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Piety Materia V",
+          "image": "020256",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Piety Materia VI",
+          "image": "020262",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Piety Materia VII",
+          "image": "020273",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Piety Materia VIII",
+          "image": "020278",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Piety Materia IX",
+          "image": "020281",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        },
+        {
+          "name": "Piety Materia X",
+          "image": "020286",
+          "cost": {
+            "type": "0",
+            "num": "0"
+          }
+        }
+      ]
+    }
+  }
+}
